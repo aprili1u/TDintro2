@@ -2,7 +2,7 @@
 
 int main (){
 
-printf("Hello World\n");
+printf("sklavenmoral/n");
 
 /* Ceci est un commentaire C */;
 }
